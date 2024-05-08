@@ -1,8 +1,8 @@
-# Sistema Bancário Simples
+# Sistema Bancário 🏦
 
 Este é um sistema bancário simples implementado em Python, onde os usuários podem realizar operações básicas como depósito, saque, exibição de extrato, criação de novo usuário e criação de nova conta.
 
-## Funcionalidades
+## Funcionalidades 🎯
 
 - **Depositar (d):** Permite ao usuário depositar dinheiro em sua conta.
 - **Sacar (s):** Permite ao usuário sacar dinheiro de sua conta, com um limite de saques.
@@ -12,7 +12,7 @@ Este é um sistema bancário simples implementado em Python, onde os usuários p
 - **Listar contas (lc):** Lista todas as contas criadas no sistema.
 - **Sair (q):** Encerra a execução do programa.
 
-## Como Executar
+## Como Executar ▶️
 
 Certifique-se de ter o Python instalado em seu sistema. Para executar o programa, siga estes passos:
 
@@ -20,10 +20,10 @@ Certifique-se de ter o Python instalado em seu sistema. Para executar o programa
 2. Abra um terminal e navegue até o diretório onde o arquivo `main.py` está localizado.
 3. Digite `python main.py` e pressione Enter.
 
-## Requisitos
+## Requisitos 👨🏻‍💻
 
 - Python 3.x
 
-## Contribuindo
+## Contribuindo 💬
 
 Sinta-se à vontade para contribuir com novas funcionalidades, melhorias de código ou correções de bugs. Basta abrir uma issue ou enviar um pull request.
